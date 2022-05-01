@@ -1,3 +1,7 @@
-# batinolez
+# Batın Ölez | CV Web Site
 
-CV Challenge Site Projesi
+CV Challange | Made By Fazz
+
+Link : batinolez.cf
+
+ssh : fazzssh
