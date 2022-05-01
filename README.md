@@ -2,6 +2,6 @@
 
 CV Challange | Made By Fazz
 
-Link : batinolez.cf
+[Web Site](https://batinolez.cf)
 
-ssh : fazzssh
+[SSH](https://ssh-fazzssh.alwaysdata.net/)
