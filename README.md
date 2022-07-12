@@ -1,7 +1,5 @@
-# Batın Ölez | CV Web Site
+# Fazz | Resume Project
 
-CV Challange | Made By Fazz
+[Web Site](https://fazz.ml)
 
-[Web Site](https://batinolez.cf)
-
-[SSH](https://ssh-fazzssh.alwaysdata.net/)
+[SSH](https://ssh-fazz.alwaysdata.net/)
