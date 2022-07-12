@@ -33,6 +33,8 @@ body{
     background-color: #003147;
     padding: 40px;
     border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-left: -3px;  
 }
 
 .profileText{
@@ -204,7 +206,7 @@ p{
 
 .skills .box h4{
     text-transform: uppercase;
-    color: #black;
+    color: black;
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
     font-weight: 500;
